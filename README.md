@@ -8,7 +8,7 @@ Um den Asuro-Roboter (oder den "Nachfolger" AAR-04) via Bluetooth steuern zu kö
 Diese Lösung hat einige Probleme, weshalb ich nach einer Alternative gesucht habe:
 - Die App (zumindest die, die via Play-Store installierbar ist) stürzt bei mir und wohl auch bei zahlreichen anderen Nutzern einfach ab.
 - Die verfügbare App ermöglicht keine "natürliche" Steuerung, wie man diese von anderen Modellen kennt (Fährt solange man Stick betätigt, steht wenn man alles loslässt)
-- Das angebotene Bluetooth-Modul war zumindest mir zu teuer (ca. 35 Euro). Bluetooth-Module für Arduino-Projekte gibt es mittlerweile für um die 6 Euro (inlusive Versand).
+- Das angebotene Bluetooth-Modul war zumindest mir zu teuer (ca. 35 Euro). Bluetooth-Module für Arduino-Projekte gibt es mittlerweile für um die 6 Euro (inklusive Versand).
 
 Alternative App für Android
 ---------------------------
