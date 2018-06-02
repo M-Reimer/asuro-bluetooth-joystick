@@ -1,6 +1,8 @@
 Asuro Bluetooth Joystick (über Android App)
 ===========================================
 
+![](https://raw.githubusercontent.com/wiki/M-Reimer/asuro-bluetooth-joystick/images/board-on-asuro.jpg)
+
 Um den Asuro-Roboter (oder den "Nachfolger" AAR-04) via Bluetooth steuern zu können, gibt es sowohl eine offizielle App als auch ein offizielles Bluetooth-Modul.
 
 Diese Lösung hat zwei Probleme, weshalb ich nach einer Alternative gesucht habe:
